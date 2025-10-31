@@ -1,7 +1,7 @@
 # The Quiet List 🪶
 
 A minimalist to-do app designed for calm, intentional task keeping.  
-Built with semantic HTML, elegant CSS, and modular JavaScript — every detail crafted with care.
+Built with semantic HTML, elegant CSS, and modular JavaScript every detail crafted with care.
 
 <p align="center">
   <img src="./images/preview.png" alt="Preview of The Quiet List" width="400"/>
@@ -16,7 +16,7 @@ Built with semantic HTML, elegant CSS, and modular JavaScript — every detail c
 - Add tasks quietly with poetic placeholder guidance
 - Check off completed items with subtle visual feedback
 - Remove tasks with a gentle tap
-- Persistent local storage — your list stays even after refresh
+- Persistent local storage your list stays even after refresh
 - Responsive design for mobile (375px and up)
 - Feather icon and textured paper background for a serene aesthetic
 
@@ -35,7 +35,7 @@ Input and button stack vertically, font sizes adjust, and spacing remains breath
 ## 🖼️ Design Philosophy
 
 > “A quiet list begins with a thought.”
-This app is more than a checklist — it’s a space for mindful intention.
+This app is more than a checklist it’s a space for mindful intention.
 Every interaction is soft, every detail considered.
 
 ## 🚀 Getting Started
