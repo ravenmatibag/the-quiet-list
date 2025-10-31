@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>The Quiet List — A Minimalist To-Do App</title>
+  </head>
+  <body>
+    <div class="todo">
+      <div class="todo__header">
+        <h1 class="todo__title">
+          The Quiet List
+          <img
+            class="todo__icon"
+            src="./images/icon.png"
+            alt="Feather quill icon"
+          />
+        </h1>
+
+        <div class="todo__form">
+          <input
+            type="text"
+            class="todo__input"
+            placeholder="Begin with a breath…"
+          />
+          <button class="todo__button" onclick="addTask()">Add Quietly</button>
+        </div>
+
+        <ul class="todo__list">
+          <!-- <li class="todo__item todo__item--checked">Task 1</li> -->
+        </ul>
+      </div>
+    </div>
+
+    <footer class="todo__footer">
+      <p>Made with calm by Raven — one breath at a time</p>
+    </footer>
+    <script src="./script.js"></script>
+  </body>
+</html>
