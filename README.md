@@ -43,4 +43,4 @@ Every interaction is soft, every detail considered.
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/your-username/the-quiet-list.git
+git clone https://github.com/ravenmatibag/the-quiet-list.git
