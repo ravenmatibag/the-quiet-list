@@ -227,6 +227,7 @@ huho@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&displ
 
 .todo__title {
     font-size: 22px;
+    align-items: center;
 }
 
 .todo__icon {
