@@ -124,6 +124,13 @@
     transform: scale(0.98);
 }
 
+
+.todo__button:focus {
+    background-color: transparent;
+    color: var(--color-dark);
+    outline: none;
+}
+
 .todo__list {
     padding-left: 0;
 }
