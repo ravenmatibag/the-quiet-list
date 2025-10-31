@@ -57,9 +57,6 @@ function handleEnterKey(e) {
 // Event Listeners
 listContainer.addEventListener("click", handleListClick);
 inputBox.addEventListener("keypress", handleEnterKey);
-document.querySelector(".todo__button").addEventListener("click", function () {
-    this.blur(); 
-});
 
 // Initial Load
 loadData();

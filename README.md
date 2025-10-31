@@ -29,7 +29,7 @@ Built with semantic HTML, elegant CSS, and modular JavaScript every detail craft
 
 ## 📱 Mobile Optimization
 
-Designed to adapt gracefully on screens as small as 375px.
+Designed to adapt gracefully on screens as small as 410px.
 Input and button stack vertically, font sizes adjust, and spacing remains breathable.
 
 ## 🖼️ Design Philosophy
