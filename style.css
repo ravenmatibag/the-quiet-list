@@ -1,4 +1,4 @@
-o@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+huho@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 
 :root {
     --font-primary: "Playfair Display", serif;
@@ -227,8 +227,6 @@ o@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=
 
 .todo__title {
     font-size: 22px;
-    align-items: center;
-    text-align: center;
 }
 
 .todo__icon {
