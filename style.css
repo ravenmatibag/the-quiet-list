@@ -218,10 +218,12 @@
 }
 
 @media (max-width: 410px) {
-.todo__header {
-    margin: 40px 10px;
+
+  .todo__header {
+    margin: 40px auto 20px;
     padding: 30px 20px;
-}
+  }
+
 
 .todo__title {
     font-size: 22px;
