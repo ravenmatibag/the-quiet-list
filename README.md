@@ -17,7 +17,7 @@ Built with semantic HTML, elegant CSS, and modular JavaScript every detail craft
 - Check off completed items with subtle visual feedback
 - Remove tasks with a gentle tap
 - Persistent local storage your list stays even after refresh
-- Responsive design for mobile (375px and up)
+- Responsive design
 - Feather icon and textured paper background for a serene aesthetic
 
 ## 📐 Tech Stack
